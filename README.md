@@ -1,6 +1,6 @@
 # super-enigma
 List of Availible Journals in Bioinformatics
-| Name | Impact Factor (2019)  | JCR Abbrev | Rank@JCR (By categories)  | Journal Link |
+| Name | Impact Factor (2019)  | JCR Abbrev | Rank@JCR (By categories)  | Publication Freq |Journal Link |
 | :---:   | :-: | :-: |:-: |:-: |
 | Wiley Interdisciplinary Reviews-Computational Molecular Science        | 16.778 |        WIRES COMPUT   MOL SCI | Q1, Q1, n/a    | 6 issues/year  | Go to [Bioinformatics](https://academic.oup.com/bioinformatics)|
 | Briefings in Bioinformatics                                                   | 8.990  |        BRIEF   BIOINFORM      | Q1, Q1         | 6 issues/year  |Go to [Bioinformatics](https://academic.oup.com/bioinformatics)|

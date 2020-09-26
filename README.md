@@ -1,5 +1,5 @@
 #### super-enigma
-###### List of Availible Journals in Bioinformatics
+###### List of Availible Journals in Bioinformatics (irregularly updated)
 
 | Name | Impact Factor (2019)  | JCR Abbrev | Rank@JCR (By categories)  | Publication Freq |
 | :---:   | :-: | :-: |:-: |:-: |

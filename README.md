@@ -17,7 +17,9 @@
 |[Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview)|1.054|J COMPUT BIOL |Q4, Q4, Q4, Q4, Q3, n/a, n/a, n/a| 12 issues/year |
 |[Medical & Biological Engineering & Computing](https://www.springer.com/journal/11517)| 2.022| MED BIOL ENG COMPUT | Q3, Q3, Q2, Q3 | 12 issues/year|
 |[Mathematical Medicine and Biology](https://academic.oup.com/imammb)|1.392 |  MATH MED BIOL | Q3, Q3, n/a |4 issues/year|
+--------------------
 non-indexed by JCR
 | Name |Publication Freq|
+| :---:   | :-: | 
 |[Bioinformatics and Biomedical Research Journal](http://bbrjournal.com/index.php/bbrj)|2 issues/year|
 |[The Open Bioinformatics Journal ](https://openbioinformaticsjournal.com/)||

@@ -3,8 +3,8 @@
 
 | Name | Impact Factor (2019)  | JCR Abbrev | Rank@JCR (By categories)  | Publication Freq |
 | :---:   | :-: | :-: |:-: |:-: |
-| Wiley Interdisciplinary Reviews-Computational Molecular Science| 16.778 |        WIRES COMPUT   MOL SCI | Q1, Q1, n/a    | 6 issues/year  | 
-| Briefings in Bioinformatics| 8.990  |BRIEF   BIOINFORM      | Q1, Q1         | 6 issues/year  |
+| [Wiley Interdisciplinary Reviews-Computational Molecular Science](https://onlinelibrary.wiley.com/journal/17590884)| 16.778 |        WIRES COMPUT   MOL SCI | Q1, Q1, n/a    | 6 issues/year  | 
+| [Briefings in Bioinformatics](https://academic.oup.com/bib)| 8.990  |BRIEF   BIOINFORM      | Q1, Q1         | 6 issues/year  |
 | [Bioinformatics](https://academic.oup.com/bioinformatics)     | 5.610  |        BIOINFORMATICS         | Q1, Q1, Q1     | 24 issues/year |
 | PLOS Computational Biology| 4.428  | PLOS COMPUT BIOL              | Q1, Q1, n/a    | 12 issues/year |
 | Statistical Methods in Medical   Research| 2.291  | STAT METHODS MED RES          | Q2, Q2, Q3, Q1 | 6 issues/year  |

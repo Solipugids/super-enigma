@@ -1,4 +1,4 @@
-#### super-enigma
+#### Bioinformatics Journals [International Conferences](bioinfoCon.md)
 ###### List of Availible Journals in Bioinformatics (irregularly updated)
 
 | Name | Impact Factor (2019)  | JCR Abbrev | Rank@JCR (By categories)  | Publication Freq |

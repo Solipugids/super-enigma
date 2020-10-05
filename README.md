@@ -1,4 +1,5 @@
-#### Bioinformatics Journals [International Conferences](bioinfoCon.md)
+#### Bioinformatics Journals 
+(also see [International Conferences](bioinfoCon.md))
 ###### List of Availible Journals in Bioinformatics (irregularly updated)
 
 | Name | Impact Factor (2019)  | JCR Abbrev | Rank@JCR (By categories)  | Publication Freq |
